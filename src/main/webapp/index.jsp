@@ -1,9 +1,9 @@
 <html>
 <head>
-<title>Hello World!</title>
+<title>Ramadan Mubarak!</title>
 </head>
 <body>
-	<h1> Iphone7 Deployment Successfull, Author Honorable Ginger</h1>
+	<h1> May we witness many more of it, From Sultan oko Ajike</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
