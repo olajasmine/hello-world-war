@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Ramadan Mubarak!</title>
+<title>Ramadan Mubarak</title>
 </head>
 <body>
 	<h1> May we witness many more of it, From Sultan and oyin</h1>
